@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, also PyQt5, React and Android Studio for school.**
 
-- 👨‍💻 All of my projects are available at [###](###)
+- 👨‍💻 All of my public projects are available at that github
 
 - 📫 How to reach me **kopciuszek#2622 on Discord**
 
