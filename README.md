@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eryk</h1>
-<h3 align="center">A passionate game developer from Poland</h3>
+<h1 align="center">Hi, I'm Eryk</h1>
+<h3 align="center">(future) games developer</h3>
 
 - 🔭 I’m currently working on **some platformer game**
 
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/channels/@me/598527027913424907 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kopciuszek#2622" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eryk-kopciuch-278a8a213/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Eryk Kopciuch on LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
